@@ -1,0 +1,36 @@
+{
+    "explore": [
+      {
+        "image": "http://lorempixel.com/400/200/city/",
+        "price": "200000",
+        "bedrooms": 2,
+        "baths": 2,
+        "size": 843,
+        "address": "Rudjera Boskovica 7",
+        "city": "Split",
+        "cityCode": 21000,
+        "country": "Croatia",
+        "isFavorite": true,
+        "location": {
+          "longitude": 16.440193,
+          "latitude": 43.508133
+        }
+      },
+      {
+        "image": "http://lorempixel.com/400/200/city/",
+        "price": "350000",
+        "bedrooms": 3,
+        "baths": 2,
+        "size": 500,
+        "address": "Vinogradska 15",
+        "city": "Zagreb",
+        "cityCode": 10000,
+        "country": "Croatia",
+        "isFavorite": true,
+        "location": {
+          "longitude": 15.966568,
+          "latitude": 45.815399
+        }
+      }
+    ]
+  }
