@@ -6,14 +6,14 @@
       "bedrooms": 2,
       "baths": 2,
       "size": 843,
-      "address": "Rudjera Boskovica 7",
-      "city": "Split",
-      "cityCode": 21000,
+      "address": "Zvecaj 8",
+      "city": "Zagreb",
+      "cityCode": 10000,
       "country": "Croatia",
       "isFavorite": true,
       "location": {
-        "longitude": 16.440193,
-        "latitude": 43.508133
+        "longitude": 15.976118,
+        "latitude": 45.855892
       }
     },
     {
